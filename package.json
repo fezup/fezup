@@ -1,4 +1,5 @@
 {
+  "minifySvg": "false",
   "build": "parcel build index.html",
   "name": "part-3---deployment",
   "version": "1.0.0",
